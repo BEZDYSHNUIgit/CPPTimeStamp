@@ -1,1 +1,1 @@
-# Project1
+# Function that shows the time the function is running
